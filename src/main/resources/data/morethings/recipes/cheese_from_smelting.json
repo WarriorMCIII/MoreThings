@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:milk_bucket"
+  },
+  "result": "morethings:cheese",
+  "experience": 0.30,
+  "cookingtime": 100
+}
