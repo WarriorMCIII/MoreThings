@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MXM",
+    "###",
+    "YYY"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:milk_bucket"
+    },
+    "X": {
+      "item": "minecraft:cooked_beef"
+    },
+    "Y": {
+      "item": "minecraft:bread"
+    },
+    "M": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "morethings:pizza",
+    "count": 4
+  }
+}
