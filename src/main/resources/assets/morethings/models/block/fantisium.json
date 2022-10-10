@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "morethings:block/fantisium_top",
+    "bottom": "minecraft:block/dirt",
+    "side": "morethings:block/fantisium_side",
+    "particle": "morethings:block/fantisium_side"
+  }
+}

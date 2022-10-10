@@ -1,5 +1,6 @@
 package com.warriormc.morethings;
 
+import com.warriormc.morethings.block.ModBlocks;
 import com.warriormc.morethings.item.ModItems;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -23,6 +24,7 @@ public class MoreThings {
         IEventBus eventbus =FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventbus);
+        ModBlocks.register(eventbus);
 
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
