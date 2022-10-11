@@ -1,7 +1,21 @@
 {
   "variants": {
-    "": {
-      "model": "morethings:block/fantisium"
-    }
+    "": [
+      {
+        "model": "morethings:block/fantisium"
+      },
+      {
+        "model": "morethings:block/fantisium",
+        "y": 90
+      },
+      {
+        "model": "morethings:block/fantisium",
+        "y": 180
+      },
+      {
+        "model": "morethings:block/fantisium",
+        "y": 270
+      }
+    ]
   }
 }
