@@ -1,5 +1,8 @@
 {
   "item.morethings.pizza": "Pizza",
   "item.morethings.cheese": "Cheese",
-  "block.morethings.fantisium": "Fantisium"
+
+  "block.morethings.fantisium": "Fantisium",
+
+  "itemGroup.more_things_tab": "More Things"
 }
